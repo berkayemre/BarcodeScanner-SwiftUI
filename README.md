@@ -1,7 +1,7 @@
 # BarcodeScanner-SwiftUI
 
 <h1 align="center">Tanıtım</h1>
-BarcodeScanner-SwiftUI, iOS cihazlar için SwiftUI kullanılarak geliştirilmiş bir barkod tarama uygulamasıdır. Bu proje, SwiftUI'nin modern ve kullanıcı dostu arayüz yeteneklerini, barkod tarama fonksiyonu ile birleştirerek, hızlı ve etkili bir barkod okuma deneyimi sunar.
+BarcodeScanner, iOS cihazlar için SwiftUI kullanılarak geliştirilmiş bir barkod tarama uygulamasıdır. Bu proje, SwiftUI'nin modern ve kullanıcı dostu arayüz yeteneklerini, barkod tarama fonksiyonu ile birleştirerek, hızlı ve etkili bir barkod okuma deneyimi sunar.
 
 <h3 align="center">Özellikler</h3>
 
